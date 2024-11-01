@@ -229,7 +229,7 @@ function CartSection() {
               }
               className="applied"
             >
-              <b>Dhruv20</b> has been applied!
+              <b>Dhru</b> has been applied!
             </p>
             <p
               style={
